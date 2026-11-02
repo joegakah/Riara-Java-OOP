@@ -10,5 +10,6 @@ This repository contains the Java code and practical session work for the Object
 - **Week 4** - Loops: while, do-while, for, nested loops, debugging
 - **Week 5** - Arrays and ArrayLists: basics, algorithms, 2D arrays
 - **Week 6** - Classes and objects: encapsulation, constructors, getters/setters
+- **Week 7** - Inheritance: `extends`, `super`, method overriding, composition
 
 Each week's folder contains the Java programs created during that practical session.
