@@ -11,5 +11,7 @@ This repository contains the Java code and practical session work for the Object
 - **Week 5** - Arrays and ArrayLists: basics, algorithms, 2D arrays
 - **Week 6** - Classes and objects: encapsulation, constructors, getters/setters
 - **Week 7** - Inheritance: `extends`, `super`, method overriding, composition
+- **Week 8** - Polymorphism: abstract classes, upcasting/downcasting, `instanceof`
+- **Week 9** - Interfaces: multiple interfaces, try-catch-finally, custom exceptions
 
 Each week's folder contains the Java programs created during that practical session.
