@@ -13,5 +13,6 @@ This repository contains the Java code and practical session work for the Object
 - **Week 7** - Inheritance: `extends`, `super`, method overriding, composition
 - **Week 8** - Polymorphism: abstract classes, upcasting/downcasting, `instanceof`
 - **Week 9** - Interfaces: multiple interfaces, try-catch-finally, custom exceptions
+- **Week 10** - Collections Framework: List/Set/Map, file I/O, CSV processing pipeline
 
 Each week's folder contains the Java programs created during that practical session.
